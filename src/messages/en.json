@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "programmes": "Programs",
+    "events": "Events",
+    "elearning": "E-Learning",
+    "international": "International",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "register": "Register",
+    "enterprises": "Enterprises"
+  },
+  "hero": {
+    "eyebrow": "EXECUTIVE EDUCATION OXFORD",
+    "title": "Propel your career to the top",
+    "subtitle": "Over 60 professional certificates across 12 strategic domains. In-person, online and blended learning programs designed for executives, leaders and entrepreneurs in Africa and worldwide.",
+    "cta1": "Explore our programs",
+    "cta2": "Talk to an advisor"
+  },
+  "stats": {
+    "programmes": "Certified programs",
+    "domains": "Areas of expertise",
+    "alumni": "Certified professionals",
+    "campuses": "Campuses: Abidjan & Oxford"
+  },
+  "featured": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "Programs that transform careers",
+    "subtitle": "A selection of our most sought-after programs by West African professionals.",
+    "viewAll": "View all programs",
+    "viewProgramme": "View program"
+  },
+  "events": {
+    "eyebrow": "CALENDAR",
+    "title": "Upcoming events",
+    "register": "Register"
+  },
+  "testimonials": {
+    "eyebrow": "TESTIMONIALS",
+    "title": "Our alumni speak"
+  },
+  "partners": {
+    "eyebrow": "THEY TRUST US"
+  },
+  "cta": {
+    "title": "Ready to transform your career?",
+    "subtitle": "Join the 500+ professionals who chose ETHSUN to accelerate their journey. Our advisors are here to help.",
+    "cta1": "Choose my program",
+    "cta2": "Talk to an advisor"
+  },
+  "footer": {
+    "description": "The University of High-Performing Enterprises. Professional training and strategic consulting institute, founded in Abidjan with an academic anchor in Oxford.",
+    "programmes": "Programs",
+    "certPro": "Professional Certificates",
+    "execCert": "Executive Certificates",
+    "elearning": "E-Learning",
+    "custom": "Custom Training",
+    "seminars": "Seminars & Workshops",
+    "contactTitle": "Contact",
+    "followUs": "Follow us",
+    "franchise": "A franchise of ETHSUN Executive Education Oxford",
+    "motto": "Per Doctrinam Excelsior",
+    "rights": "All rights reserved.",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy"
+  },
+  "catalogue": {
+    "eyebrow": "CATALOGUE",
+    "title": "Our training programs",
+    "subtitle": "Find the program that matches your professional ambitions. Over 60 certificates in 12 domains, available in-person, online or blended.",
+    "search": "Search for a program, domain, keyword...",
+    "all": "All",
+    "found": "programs found",
+    "duration": "Duration",
+    "format": "Format",
+    "price": "Price",
+    "noResults": "No programs found.",
+    "customCta": "Can't find what you're looking for? We also design custom training for companies and institutions.",
+    "customBtn": "Request custom training"
+  },
+  "programme": {
+    "breadcrumbHome": "Home",
+    "breadcrumbProgrammes": "Programs",
+    "enrollmentOpen": "Enrollment open",
+    "enrollmentSoon": "Coming soon",
+    "enrollmentClosed": "Enrollment closed",
+    "objectives": "Training objectives",
+    "detailedProgramme": "Detailed program",
+    "targetAudience": "Target audience & prerequisites",
+    "targetTitle": "Target audience",
+    "prerequisites": "Prerequisites",
+    "methods": "Teaching methods",
+    "similar": "Similar programs",
+    "duration": "Duration",
+    "format": "Format",
+    "nextSession": "Next session",
+    "price": "Price",
+    "register": "Register now",
+    "brochure": "Download brochure",
+    "whatsapp": "Need advice? Contact us on WhatsApp"
+  },
+  "eventPage": {
+    "edition": "1ST EDITION",
+    "title": "African University of Tourism",
+    "date": "May 12, 2026",
+    "venue": "Sofitel Hôtel Ivoire, Abidjan, Côte d'Ivoire",
+    "organizer": "Organized by: ETHSUN Institute",
+    "intro": "The 1st African University of Tourism is an unprecedented event bringing together key players in African tourism: public institutions, private operators, investors and international experts. This intensive day aims to lay the foundations for a sustainable, competitive and inclusive African tourism.",
+    "statsParticipants": "expected participants",
+    "statsSpeakers": "expert speakers",
+    "statsDuration": "intensive day",
+    "rectorTitle": "Honorary Rector",
+    "rectorName": "Mr. Siandou FOFANA",
+    "rectorRole": "Minister of Tourism and Leisure of Côte d'Ivoire",
+    "rectorBio": "Architect of the 'Sublime Côte d'Ivoire' strategy, Mr. Fofana is an emblematic figure in tourism development in West Africa. His patronage gives this event a major institutional dimension.",
+    "schedule": "Day schedule",
+    "partnersTitle": "Institutional partners",
+    "registerCta": "Register for the 1st African University of Tourism",
+    "contactTitle": "Contact"
+  },
+  "about": {
+    "eyebrow": "ABOUT",
+    "title": "The University of High-Performing Enterprises",
+    "subtitle": "Training tomorrow's leaders in Africa and worldwide, with the excellence of Oxford.",
+    "missionTitle": "Our mission",
+    "missionText1": "ETHSUN Institute supports professionals, executives and leaders in their skills development through internationally certified programs. We believe that training is the most powerful lever for transforming organizations and African economies.",
+    "missionText2": "Our programs are designed by practicing experts, rooted in African realities and enriched by international best practices.",
+    "visionTitle": "Our vision",
+    "visionText": "To become the reference in executive education in West Africa, with international reach from Oxford and Singapore. We aspire to create an educational ecosystem that connects Africa to global standards of professional excellence.",
+    "founderTitle": "The founder",
+    "founderName": "Jean-Calvin ETHIEN",
+    "founderRole": "Founder & President",
+    "founderBio": "Entrepreneur and institutional development strategist, Jean-Calvin ETHIEN leads the ETHSUN ecosystem from Abidjan and Oxford. A visionary of professional training in Africa, he has created over 60 certified programs covering 12 strategic domains, training over 500 executives and leaders across West Africa.",
+    "founderAmbition": "His ambition: to make ETHSUN a leading international training group, bridging Oxford's academic excellence with African entrepreneurial dynamism.",
+    "campusesTitle": "Our campuses",
+    "valuesTitle": "Our values",
+    "ecosystemTitle": "Our ecosystem"
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "Let's talk about your training project",
+    "subtitle": "Our advisors are available to guide you to the program best suited to your professional goals.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone (WhatsApp)",
+    "subject": "Subject",
+    "subjectOptions": {
+      "info": "Program information",
+      "custom": "Custom training",
+      "partnership": "Partnership",
+      "enrollment": "Enrollment",
+      "other": "Other"
+    },
+    "programmeInterest": "Program of interest",
+    "message": "Message",
+    "send": "Send message",
+    "whatsapp": "Chat on WhatsApp",
+    "appointment": "Book an appointment",
+    "campusAbidjan": "Campus Abidjan — Plateau",
+    "campusOxford": "Campus Oxford — Science Park"
+  },
+  "blog": {
+    "eyebrow": "BLOG",
+    "title": "Expertise, analysis and news",
+    "subtitle": "Discover expert analysis, the latest ETHSUN news and trends shaping professional training in Africa.",
+    "readMore": "Read more",
+    "categories": {
+      "all": "All",
+      "expertise": "Expert insights",
+      "news": "ETHSUN News",
+      "alumni": "Alumni stories",
+      "ia": "AI & Innovation"
+    }
+  },
+  "elearning": {
+    "eyebrow": "E-LEARNING",
+    "title": "Learn from anywhere",
+    "subtitle": "Access our certified online programs at your own pace, through our Neuroklax digital learning platform.",
+    "whyTitle": "Why ETHSUN Digital Learning?",
+    "howTitle": "How it works",
+    "ctaPlatform": "Access the e-learning platform",
+    "ctaProgrammes": "View online programs"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "fcfa": "FCFA"
+  }
+}

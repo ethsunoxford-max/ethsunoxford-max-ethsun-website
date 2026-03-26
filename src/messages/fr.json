@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "programmes": "Programmes",
+    "events": "Événements",
+    "elearning": "E-Learning",
+    "international": "International",
+    "about": "À propos",
+    "contact": "Contact",
+    "blog": "Blog",
+    "register": "S'inscrire",
+    "enterprises": "Entreprises"
+  },
+  "hero": {
+    "eyebrow": "EXECUTIVE EDUCATION OXFORD",
+    "title": "Propulsez votre carrière au sommet",
+    "subtitle": "Plus de 60 certificats professionnels dans 12 domaines stratégiques. Formations présentielles, en ligne et blended learning, conçues pour les cadres, dirigeants et entrepreneurs d'Afrique et du monde.",
+    "cta1": "Découvrir nos programmes",
+    "cta2": "Parler à un conseiller"
+  },
+  "stats": {
+    "programmes": "Programmes certifiants",
+    "domains": "Domaines d'expertise",
+    "alumni": "Professionnels certifiés",
+    "campuses": "Campus : Abidjan & Oxford"
+  },
+  "featured": {
+    "eyebrow": "NOS FORMATIONS",
+    "title": "Des programmes qui transforment les carrières",
+    "subtitle": "Sélection de nos formations les plus demandées par les professionnels d'Afrique de l'Ouest.",
+    "viewAll": "Voir tous les programmes",
+    "viewProgramme": "Voir le programme"
+  },
+  "events": {
+    "eyebrow": "AGENDA",
+    "title": "Événements à venir",
+    "register": "S'inscrire"
+  },
+  "testimonials": {
+    "eyebrow": "TÉMOIGNAGES",
+    "title": "Nos alumni témoignent"
+  },
+  "partners": {
+    "eyebrow": "ILS NOUS FONT CONFIANCE"
+  },
+  "cta": {
+    "title": "Prêt à transformer votre carrière ?",
+    "subtitle": "Rejoignez les 500+ professionnels qui ont choisi ETHSUN pour accélérer leur parcours. Nos conseillers sont à votre écoute.",
+    "cta1": "Choisir mon programme",
+    "cta2": "Parler à un conseiller"
+  },
+  "footer": {
+    "description": "L'Université des Entreprises Performantes. Institut de formation professionnelle et de conseil stratégique, fondé à Abidjan avec un ancrage académique à Oxford.",
+    "programmes": "Programmes",
+    "certPro": "Certificats Professionnels",
+    "execCert": "Executive Certificates",
+    "elearning": "E-Learning",
+    "custom": "Formations sur mesure",
+    "seminars": "Séminaires et Ateliers",
+    "contactTitle": "Contact",
+    "followUs": "Suivez-nous",
+    "franchise": "A franchise of ETHSUN Executive Education Oxford",
+    "motto": "Per Doctrinam Excelsior",
+    "rights": "Tous droits réservés.",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité"
+  },
+  "catalogue": {
+    "eyebrow": "CATALOGUE",
+    "title": "Nos programmes de formation",
+    "subtitle": "Trouvez le programme qui correspond à vos ambitions professionnelles. Plus de 60 certificats dans 12 domaines, accessibles en présentiel, en ligne ou en blended learning.",
+    "search": "Rechercher un programme, un domaine, un mot-clé...",
+    "all": "Tous",
+    "found": "programmes trouvés",
+    "duration": "Durée",
+    "format": "Format",
+    "price": "Tarif",
+    "noResults": "Aucun programme trouvé.",
+    "customCta": "Vous ne trouvez pas ce que vous cherchez ? Nous concevons également des formations sur mesure pour les entreprises et institutions.",
+    "customBtn": "Demander une formation sur mesure"
+  },
+  "programme": {
+    "breadcrumbHome": "Accueil",
+    "breadcrumbProgrammes": "Programmes",
+    "enrollmentOpen": "Inscriptions ouvertes",
+    "enrollmentSoon": "Prochainement",
+    "enrollmentClosed": "Inscriptions closes",
+    "objectives": "Objectifs de la formation",
+    "detailedProgramme": "Programme détaillé",
+    "targetAudience": "Public cible & prérequis",
+    "targetTitle": "Public cible",
+    "prerequisites": "Prérequis",
+    "methods": "Méthodes pédagogiques",
+    "similar": "Programmes similaires",
+    "duration": "Durée",
+    "format": "Format",
+    "nextSession": "Prochaine session",
+    "price": "Tarif",
+    "register": "S'inscrire maintenant",
+    "brochure": "Télécharger la brochure",
+    "whatsapp": "Besoin de conseils ? Contactez-nous sur WhatsApp"
+  },
+  "eventPage": {
+    "edition": "1ÈRE ÉDITION",
+    "title": "Université Africaine du Tourisme",
+    "date": "12 Mai 2026",
+    "venue": "Sofitel Hôtel Ivoire, Abidjan, Côte d'Ivoire",
+    "organizer": "Organisé par : ETHSUN Institute",
+    "intro": "La 1ère Université Africaine du Tourisme est un événement inédit qui réunit les acteurs clés du tourisme africain : institutions publiques, opérateurs privés, investisseurs et experts internationaux. Cette journée intensive vise à poser les bases d'un tourisme africain durable, compétitif et inclusif.",
+    "statsParticipants": "participants attendus",
+    "statsSpeakers": "intervenants experts",
+    "statsDuration": "journée intensive",
+    "rectorTitle": "Recteur Honorifique",
+    "rectorName": "M. Siandou FOFANA",
+    "rectorRole": "Ministre du Tourisme et des Loisirs de Côte d'Ivoire",
+    "rectorBio": "Artisan de la stratégie « Sublime Côte d'Ivoire », M. Fofana est une figure emblématique du développement touristique en Afrique de l'Ouest. Son parrainage confère à cet événement une dimension institutionnelle majeure.",
+    "schedule": "Programme de la journée",
+    "partnersTitle": "Partenaires institutionnels",
+    "registerCta": "S'inscrire à la 1ère Université Africaine du Tourisme",
+    "contactTitle": "Contact"
+  },
+  "about": {
+    "eyebrow": "À PROPOS",
+    "title": "L'Université des Entreprises Performantes",
+    "subtitle": "Former les leaders de demain en Afrique et dans le monde, avec l'excellence d'Oxford.",
+    "missionTitle": "Notre mission",
+    "missionText1": "ETHSUN Institute accompagne les professionnels, cadres et dirigeants dans leur montée en compétences à travers des programmes certifiants de niveau international. Nous croyons que la formation est le levier le plus puissant pour transformer les organisations et les économies africaines.",
+    "missionText2": "Nos programmes sont conçus par des experts praticiens, ancrés dans les réalités du terrain africain et enrichis par les meilleures pratiques internationales.",
+    "visionTitle": "Notre vision",
+    "visionText": "Devenir la référence en formation executive en Afrique de l'Ouest, avec un rayonnement international depuis Oxford et Singapour. Nous aspirons à créer un écosystème éducatif qui connecte l'Afrique aux standards mondiaux de l'excellence professionnelle.",
+    "founderTitle": "Le fondateur",
+    "founderName": "Jean-Calvin ETHIEN",
+    "founderRole": "Fondateur & Président",
+    "founderBio": "Entrepreneur et stratège en développement institutionnel, Jean-Calvin ETHIEN dirige l'écosystème ETHSUN depuis Abidjan et Oxford. Visionnaire de la formation professionnelle en Afrique, il a créé plus de 60 programmes certifiants couvrant 12 domaines stratégiques, formant plus de 500 cadres et dirigeants à travers l'Afrique de l'Ouest.",
+    "founderAmbition": "Son ambition : faire d'ETHSUN un groupe international de formation de référence, pont entre l'excellence académique d'Oxford et le dynamisme entrepreneurial africain.",
+    "campusesTitle": "Nos campus",
+    "valuesTitle": "Nos valeurs",
+    "ecosystemTitle": "Notre écosystème"
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "Parlons de votre projet de formation",
+    "subtitle": "Nos conseillers sont à votre disposition pour vous orienter vers le programme le plus adapté à vos objectifs professionnels.",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone (WhatsApp)",
+    "subject": "Objet",
+    "subjectOptions": {
+      "info": "Information programme",
+      "custom": "Formation sur mesure",
+      "partnership": "Partenariat",
+      "enrollment": "Inscription",
+      "other": "Autre"
+    },
+    "programmeInterest": "Programme d'intérêt",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "whatsapp": "Discuter sur WhatsApp",
+    "appointment": "Prendre rendez-vous en ligne",
+    "campusAbidjan": "Campus Abidjan — Plateau",
+    "campusOxford": "Campus Oxford — Science Park"
+  },
+  "blog": {
+    "eyebrow": "BLOG",
+    "title": "Expertises, analyses et actualités",
+    "subtitle": "Découvrez les analyses de nos experts, les dernières actualités ETHSUN et les tendances qui façonnent la formation professionnelle en Afrique.",
+    "readMore": "Lire la suite",
+    "categories": {
+      "all": "Tous",
+      "expertise": "Tribunes d'expertise",
+      "news": "Actualités ETHSUN",
+      "alumni": "Histoires d'alumni",
+      "ia": "IA & Innovation"
+    }
+  },
+  "elearning": {
+    "eyebrow": "E-LEARNING",
+    "title": "Formez-vous où que vous soyez",
+    "subtitle": "Accédez à nos programmes certifiants en ligne, à votre rythme, depuis notre plateforme d'apprentissage numérique Neuroklax.",
+    "whyTitle": "Pourquoi le Digital Learning ETHSUN ?",
+    "howTitle": "Comment ça marche",
+    "ctaPlatform": "Accéder à la plateforme e-learning",
+    "ctaProgrammes": "Voir les formations en ligne"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "fcfa": "FCFA"
+  }
+}
